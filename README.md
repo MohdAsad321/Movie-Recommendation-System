@@ -12,20 +12,20 @@ The goal of this project is to help users discover movies they might enjoy based
 * Scikit-learn – for computing cosine similarity
 
 # ⚙️ Features -->
-🔍 Recommends top similar movies using Cosine Similarity
-📊 Utilizes movie metadata such as genres, cast, director, and overview
-🧠 Implements content-based filtering approach
-💡 Simple and efficient algorithm suitable for small to medium datasets
-🎥 User-friendly output displaying similar movie titles
+* 🔍 Recommends top similar movies using Cosine Similarity
+* 📊 Utilizes movie metadata such as genres, cast, director, and overview
+* 🧠 Implements content-based filtering approach
+* 💡 Simple and efficient algorithm suitable for small to medium datasets
+* 🎥 User-friendly output displaying similar movie titles
 
 # 🧮 Example Output
-Input: 🎞️ “Avatar”
-Output Recommendations:=
-Guardians of the Galaxy
-Star Trek
-The Fifth Element
-John Carter
-Interstellar
+* Input: 🎞️ “Avatar”
+* Output Recommendations:=
+* Guardians of the Galaxy
+* Star Trek
+* The Fifth Element
+* John Carter
+* Interstellar
 
 
 
