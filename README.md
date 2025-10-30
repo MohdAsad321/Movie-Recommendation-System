@@ -6,10 +6,10 @@ This project is a Movie Recommendation System that suggests movies similar to th
 The goal of this project is to help users discover movies they might enjoy based on similarities to their favorite films.
 
 # 🧰 Tools & Technologies -->
-Python
-Pandas – for data manipulation
-NumPy – for numerical operations
-Scikit-learn – for computing cosine similarity
+* Python
+* Pandas – for data manipulation
+* NumPy – for numerical operations
+* Scikit-learn – for computing cosine similarity
 
 # ⚙️ Features -->
 🔍 Recommends top similar movies using Cosine Similarity
